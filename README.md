@@ -4,7 +4,7 @@ Dataset from: https://github.com/owid/covid-19-data/tree/master/public/data
 
 Tableau Dashboard: https://public.tableau.com/views/covidreport_16213951420890/InfectionDashboard?:language=en&:display_count=y&:origin=viz_share_link
 
-Skills includes:
+Skills practiced:
 - Load data to MySQL
 - Clean, transform, explore data with SQL
 - Extract data for visualization and analysis
