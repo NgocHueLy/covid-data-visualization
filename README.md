@@ -12,8 +12,10 @@ Skills includes:
 
 Screenshots from dashboards:
 
+![alt text](https://github.com/NgocHueLy/covid-data-visualization/blob/main/covid-spread-capture.png "Covid 2019 Spread")
+
 ![alt text](https://github.com/NgocHueLy/covid-data-visualization/blob/main/world-response-capture.png "How the world response to Covid 2019")
 
 
-![alt text](https://github.com/NgocHueLy/covid-data-visualization/blob/main/covid-spread-capture.png "Covid 2019 Spread")
+
 
